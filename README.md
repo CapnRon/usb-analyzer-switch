@@ -6,3 +6,5 @@ https://www.aliexpress.us/item/3256804718359582.html
 https://www.aliexpress.us/item/3256804642765727.html
 https://www.aliexpress.us/item/3256805086884883.html
 ```
+![image](https://github.com/CapnRon/usb-analyzer-switch/assets/109708692/f685e766-0ffe-4f70-8b92-a937dea9042a)
+![image](https://github.com/CapnRon/usb-analyzer-switch/assets/109708692/20d59b6b-77fe-4ec9-b43d-1afe21a3c5ba)
