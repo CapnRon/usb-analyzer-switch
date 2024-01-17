@@ -1,0 +1,9 @@
+Id,Designator,Footprint,Quantity,Designation,Supplier and ref
+1,J5,GCT_USB4110GFA,1,USB_C_Receptacle_USB2.0,
+2,"TP2,TP1",TestPoint_Pad_4.0x4.0mm,2,TestPoint,
+3,J1,PinHeader_1x04_P2.54mm_Vertical,1,Conn_01x04_Pin,
+4,J2,CUI_UJ2-AH-4-SMT,1,USB_A,
+5,D1,LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder,1,LED,
+6,R1,1k ohm R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,1,R_US,
+7,J6,USB_Micro-B_GCT_USB3076-30-A,1,USB_B_Micro,
+8,"TP1,TP2",Ali-express latching switch,1,"TP1,TP2",
